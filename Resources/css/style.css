@@ -25,12 +25,3 @@ h2 {
     font-size: 21px;
     color: gray;
 }
-
-.images{
-    display: flex;
-    flex-direction: column;
-}
-
-.stretch{
-    max-width: 100%;
-}
