@@ -5,7 +5,7 @@ body{
     color: white;
 }
 
-header{
+.first{
     font-size: 50px;
 }
 
@@ -14,4 +14,23 @@ header{
     color: aquamarine;
     margin-top: 50px;
     text-decoration: underline;
+}
+
+.second{
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+}
+
+.images{
+    display: flex;
+    flex-direction: column;
+}
+
+.stretch{
+    max-width: 100%;
 }
